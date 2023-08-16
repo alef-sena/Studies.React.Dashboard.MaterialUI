@@ -10,7 +10,8 @@
         "json",
         "xml",
         "markdown",
-        "yaml"
+        "yaml",
+        "javascriptreact"
     ],
     "colorize.colorizedStrings": true
 }
