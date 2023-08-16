@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": false,
+    "colorize.languages": [
+        "plaintext",
+        "javascript",
+        "typescript",
+        "css",
+        "scss",
+        "html",
+        "json",
+        "xml",
+        "markdown",
+        "yaml",
+        "javascriptreact"
+    ],
+    "colorize.colorizedStrings": true
+}
