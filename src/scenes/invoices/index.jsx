@@ -51,9 +51,6 @@ const Invoices = () => {
 						borderTop: 'none',
 						backgroundColor: colors.blueAccent[700],
 					},
-					'& .MuiCHeckbox-root': {
-						color: `${colors.greenAccent[200]} !important`,
-					},
 					'& .MuiCheckbox-root': {
 						color: `${colors.greenAccent[200]} !important`,
 					}
