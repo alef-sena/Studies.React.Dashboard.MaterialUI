@@ -25,7 +25,11 @@ const Team = () => {
 					p='5px'
 					display='flex'
 					justifyContent='center'
-					backgroundColor={ access === 'admin' ? colors.greenAccent[600] : colors.greenAccent[700] }
+					backgroundColor={
+						access === 'admin'
+							? colors.greenAccent[600]
+							: colors.greenAccent[700]
+					}
 					borderRadius='4px'
 				>
 					{ access === 'admin' && <AdminPanelSettingsOutlinedIcon />}
